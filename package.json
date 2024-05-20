@@ -1,0 +1,20 @@
+{
+  "name": "roommates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emily Herrera",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2",
+    "mailgun-js": "^0.22.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
